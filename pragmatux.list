@@ -1,0 +1,3 @@
+deb http://packages.pragmatux.org/device alpha main
+deb http://emdebian.org/grip squeeze main
+deb http://http.debian.net/debian squeeze main

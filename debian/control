@@ -1,0 +1,14 @@
+Source: apt-source-ptux-device
+Section: admin
+Priority: extra
+Maintainer: Ryan Kuester <rkuester@insymbols.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+
+Package: apt-source-ptux-device
+Architecture: all
+Depends: ${misc:Depends}
+Description: APT sources for Pragmatux
+ This package installs APT sources for Pragmatux Device. In addition to the
+ official Pragmatux project package servers, those sources include the EmDebian
+ and Debian package servers.
