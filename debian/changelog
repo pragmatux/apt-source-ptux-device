@@ -1,3 +1,9 @@
+apt-source-ptux-device (1.1) unstable; urgency=low
+
+  * Add dependency on emdebian-archive-keyring
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Wed, 16 Jan 2013 07:27:20 +0000
+
 apt-source-ptux-device (1.0) unstable; urgency=low
 
   * Initial Release.
