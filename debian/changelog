@@ -1,3 +1,10 @@
+apt-source-ptux-device (1.2) unstable; urgency=low
+
+  * Change to bravo and wheezy package sources
+  * Prefer sources labeled "Pragmatux" over others
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Mon, 04 Mar 2013 18:48:51 +0000
+
 apt-source-ptux-device (1.1) unstable; urgency=low
 
   * Add dependency on emdebian-archive-keyring
