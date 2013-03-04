@@ -10,5 +10,6 @@ Architecture: all
 Depends: emdebian-archive-keyring, ${misc:Depends}
 Description: APT sources for Pragmatux
  This package installs APT sources for Pragmatux Device. In addition to the
- official Pragmatux project package servers, those sources include the EmDebian
- and Debian package servers.
+ official Pragmatux project package servers, which are preferred via an APT
+ preferences fragment, the sources include the EmDebian and Debian package
+ servers.

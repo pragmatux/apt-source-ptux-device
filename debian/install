@@ -1,1 +1,2 @@
 pragmatux.list /etc/apt/sources.list.d
+pragmatux.pref /etc/apt/preferences.d
