@@ -1,18 +1,11 @@
-apt-source-ptux-device (1.2) unstable; urgency=low
+apt-source-ptux-device (0) UNRELEASED; urgency=low
 
-  * Change to bravo and wheezy package sources
-  * Prefer sources labeled "Pragmatux" over others
+  NOTE this changelog is generated from git history when the
+  source package is built. Any change made to this file will be
+  overwritten. Do not commit the generated file to git.
 
- -- Ryan Kuester <rkuester@insymbols.com>  Mon, 04 Mar 2013 18:48:51 +0000
+  The package name above is significant and must be maintained,
+  as several debian tools (e.g., from the devscripts package)
+  read the changelog.
 
-apt-source-ptux-device (1.1) unstable; urgency=low
-
-  * Add dependency on emdebian-archive-keyring
-
- -- Ryan Kuester <rkuester@insymbols.com>  Wed, 16 Jan 2013 07:27:20 +0000
-
-apt-source-ptux-device (1.0) unstable; urgency=low
-
-  * Initial Release.
-
- -- Ryan Kuester <rkuester@insymbols.com>  Wed, 16 Jan 2013 06:52:40 +0000
+ -- Generated <an@example.com>  Thu, 01 Jan 1970 00:00:00 +0000
