@@ -1,3 +1,2 @@
 deb http://packages.pragmatux.org/device 3.0 main
-deb http://emdebian.org/grip wheezy-grip main
-deb http://cdn.debian.net/debian wheezy main
+deb http://ftp.us.debian.org/debian wheezy main
