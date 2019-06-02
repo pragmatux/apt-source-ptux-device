@@ -1,2 +1,2 @@
-deb [trusted=yes] http://packages.pragmatux.org/device 4.0 main
-deb http://ftp.us.debian.org/debian jessie main
+deb [trusted=yes] http://packages.pragmatux.org/device buster main
+deb http://ftp.us.debian.org/debian buster main
